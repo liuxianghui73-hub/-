@@ -161,6 +161,5 @@ curl -X POST http://localhost:8000/api/agent/stream \
 - [ ] **v2.1**：销售漏斗分析 Dashboard
 - [ ] **v3.0**：飞书 OAuth 真实对接
 
-## 许可证
 
-MIT
+
